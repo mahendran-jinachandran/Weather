@@ -10,6 +10,7 @@ import SwiftUI
 struct ContentView: View {
     
     
+    // MARK: For Light and Dark Mode
     @State var isNight: Bool = false
     var body: some View {
         
